@@ -2,7 +2,6 @@
 
 Linux commands are case sensitive. <br>
 Main command: <br>
-<ul>
   * **ls** - *listing directories* <br> </li>
   * **more {filename}**  - *to see the contents of the file* <br> </li>
   * **more {filename} + spacebar** - *to see the next page of text hit spacebar after more command* <br> </li>
