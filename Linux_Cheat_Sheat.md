@@ -12,4 +12,5 @@ Main command: <br>
   <li>** cd {directoryname} ** - *to change to directory* <br> </li>
   <li>** pwd ** - *print working directory* <br> </li>
   <li>** cd .. ** - *to change to the directory above your current directory* <br> </li>
+  <li>** mv {path/to/file} {path/to/newfilename} ** - * rename file without changeing the current directory by using relative pathname* <br> </li>
 </ul>
