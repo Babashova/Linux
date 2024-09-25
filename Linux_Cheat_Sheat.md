@@ -1,8 +1,14 @@
+## LINUX CHEAT SHEAT
+
 Linux commands are case sensitive. <br>
 Main command: <br>
-**ls** - *listing directories* <br>
-**more {filename}**  - *to see the contents of the file* <br>
-**more {filename} + spacebar** - *to see the next page of text hit spacebar after more command* <br>
-**mkdir {directoryname}** - *to create a directory* <br>
-** mv {filename} {directoryname} ** - *to move a file {filename} into directory {directoryname}* <br>
-** cd {directoryname} ** - *to change to directory* <br>
+<ul>
+  <li>**ls** - *listing directories* <br> </li>
+  <li>**more {filename}**  - *to see the contents of the file* <br> </li>
+  <li>**more {filename} + spacebar** - *to see the next page of text hit spacebar after more command* <br> </li>
+  <li>**mkdir {directoryname}** - *to create a directory* <br> </li>
+  <li>** mv {filename} {directoryname} ** - *to move a file {filename} into directory {directoryname}* <br> </li>
+  <li>** cd {directoryname} ** - *to change to directory* <br> </li>
+  <li>** pwd ** - *print working directory* <br> </li>
+  <li>** cd .. ** - *to change to the directory above your current directory* <br> </li>
+</ul>
