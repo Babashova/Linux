@@ -3,7 +3,7 @@
 Linux commands are case sensitive. <br>
 Main command: <br>
 <ul>
-  <li> **ls** - *listing directories* <br> </li>
+  <li> <p><strong>ls<p><strong> - *listing directories* <br> </li>
   <li> **more {filename}**  - *to see the contents of the file* <br> </li>
   <li> **more {filename} + spacebar** - *to see the next page of text hit spacebar after more command* <br> </li>
   <li> **mkdir {directoryname}** - *to create a directory* <br> </li>
